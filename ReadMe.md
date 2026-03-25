@@ -79,6 +79,10 @@ This repository is a collection of all the coding problems I have solved. It sho
 | [1211. Queries Quality and %](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1211.%20Queries%20Quality%20and%20Percentage.sql) | [1251. Average Selling Price](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1251.%20Average%20Selling%20Price.sql) |
 | [1280. Students and Examinations](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1280.%20Students%20and%20Examinations.sql) | [1378. Replace ID with Unique Identifier](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) |
 | [1407. Top Travellers](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1407.%20Top%20Travellers.sql) | [1484. Group Sold Products by Date](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql) |
+| [1581. Visited but No Transactions](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) | [1587. Bank Account Summary II](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1587.%20Bank%20Account%20Summary%20II.sql) |
+| [1683. Invalid Tweets](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1683.%20Invalid%20Tweets.sql) | [1693. Daily Leads and Partners](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1693.%20Daily%20Leads%20and%20Partners.sql) |
+| [1741. Total Time Spent by Employee](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql) | [1757. Recyclable & Low Fat Products](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql) |
+| [1873. Calculate Special Bonus](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1873.%20Calculate%20Special%20Bonus.sql) | [1890. The Latest Login in 2020](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1890.%20The%20Latest%20Login%20in%202020.sql) |
 
 ---
 
