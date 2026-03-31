@@ -11,9 +11,9 @@ This repository is a collection of all the coding problems I have solved. It sho
 ## Table of Contents
 
 * [Assembly](#assembly)
-* [C Programming](#c-programming)
 * [Java Programming](#java-programming)
 * [Python](#python-programming)
+* [C++](#cpp-programming)
 * [SQL](#sql-programming)
 
 ---
@@ -36,30 +36,21 @@ This repository is a collection of all the coding problems I have solved. It sho
 | | [C- Simple Calculator](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/C-%20simple%20calculator.asm) | [D- Difference](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/D.%20Difference.asm) |
 | | [G- Summation 1 to N](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/G.%20Summation%20from%201%20to%20N.asm) | [I- Welcome (Conditions)](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/I.%20Welcome%20for%20you%20with%20Conditions.asm) |
 
----
-
-<a name="c-programming"></a>
-## C Programming
-
 
 ---
 
 <a name="java-programming"></a>
 ## Java Programming
-| Problem | Problem |
-| :--- | :--- |
-| [Reverse Single LinkedList](https://github.com/omnianasa/Problem-Solving/blob/main/Java/Reverse%20Single%20LinkedList.java) | [Reverse LinkedList (Alt)](https://github.com/omnianasa/Problem-Solving/blob/main/Java/reverseLinkedList.java) |
-| [Merging Two LinkedLists](https://github.com/omnianasa/Problem-Solving/blob/main/Java/Merging%20Two%20LinkedLists.java) | [Middle of LinkedList](https://github.com/omnianasa/Problem-Solving/blob/main/Java/Middle%20Of%20LinkedList.java) |
-| [Remove Duplicates (General)](https://github.com/omnianasa/Problem-Solving/blob/main/Java/Remove%20Duplicates%20from%20a%20linkedList.java) | [Remove Duplicates (Sorted)](https://github.com/omnianasa/Problem-Solving/blob/main/Java/Remove%20Duplicates%20from%20a%20sorted%20list.java) |
-| [Remove Element](https://github.com/omnianasa/Problem-Solving/blob/main/Java/Remove%20element%20from%20linkedlist.java) | [Palindrome Check (Stack)](https://github.com/omnianasa/Problem-Solving/blob/main/Java/PalindromeLinkedListUsingStack.java) |
-| [Intersection of Two Arrays](https://github.com/omnianasa/Problem-Solving/blob/main/Java/IntersectionOfTwoArrays.java) | [Valid Parenthesis (Stack)](https://github.com/omnianasa/Problem-Solving/blob/main/Java/Valid%20Parenthesis%20using%20stack.java) |
-| [Count Frequency (HashMap)](https://github.com/omnianasa/Problem-Solving/blob/main/Java/countFrequencyUsingHashMap.java) | [Remove Duplicates (Array)](https://github.com/omnianasa/Problem-Solving/blob/main/Java/removeDuplicates.java) |
-| [Divide By Zero Exception](https://github.com/omnianasa/Problem-Solving/blob/main/Java/DivideByZeroException.java) | [Custom Exception Handling](https://github.com/omnianasa/Problem-Solving/blob/main/Java/customExceptionHandling.java) |
 
 ---
 
 <a name="python-programming"></a>
 ## Python Programming
+
+---
+
+<a name="cpp-programming"></a>
+## C++ Programming
 
 
 ---
