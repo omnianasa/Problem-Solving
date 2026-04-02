@@ -51,11 +51,13 @@ This repository is a collection of all the coding problems I have solved. It sho
 | [1. Two Sum](https://github.com/omnianasa/Problem-Solving/blob/main/Python/1.%20Two%20Sum.py) | [4. Median Of Two Sorted Arrays](https://github.com/omnianasa/Problem-Solving/blob/main/Python/4.%20Median%20Of%20Two%20Sorted%20Arrays.py) |
 | [9. Palindrome Number](https://github.com/omnianasa/Problem-Solving/blob/main/Python/9.%20Palindrome%20Number.py) | [13. Roman to Int](https://github.com/omnianasa/Problem-Solving/blob/main/Python/13.%20roman%20to%20int.py) |
 | [26. Remove Duplicates (Sorted)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | [27. Remove Element](https://github.com/omnianasa/Problem-Solving/blob/main/Python/27.%20Remove%20Element.py) |
-| [66. Plus One](https://github.com/omnianasa/Problem-Solving/blob/main/Python/66.%20Plus%20One.py) | [69. Sqrt(x)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/69.%20Sqrt(x).py) |
-| [70. Climbing Stairs](https://github.com/omnianasa/Problem-Solving/blob/main/Python/70.%20Climbing%20Stairs.py) | [125. Valid Palindrome](https://github.com/omnianasa/Problem-Solving/blob/main/Python/125.%20Valid%20Palindrome.py) |
-| [217. Contains Duplicate](https://github.com/omnianasa/Problem-Solving/blob/main/Python/217.%20Contains%20Duplicate.py) | [242. Valid Anagram](https://github.com/omnianasa/Problem-Solving/blob/main/Python/242.%20Valid%20Anagram.py) |
-| [704. Binary Search](https://github.com/omnianasa/Problem-Solving/blob/main/Python/704.%20Binary%20Search.py) | [2460. Apply Operations to Array](https://github.com/omnianasa/Problem-Solving/blob/main/Python/2460.%20Apply%20Operations%20to%20an%20array.py) |
-| [2461. Max Sum Subarrays (Len K)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/2461.%20Maximum%20Sum%20of%20subarrays%20with%20length%20k.py) | |
+| [50. Pow(x, n)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/50.%20Pow(x,%20n).py) | [66. Plus One](https://github.com/omnianasa/Problem-Solving/blob/main/Python/66.%20Plus%20One.py) |
+| [69. Sqrt(x)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/69.%20Sqrt(x).py) | [70. Climbing Stairs](https://github.com/omnianasa/Problem-Solving/blob/main/Python/70.%20Climbing%20Stairs.py) |
+| [125. Valid Palindrome](https://github.com/omnianasa/Problem-Solving/blob/main/Python/125.%20Valid%20Palindrome.py) | [217. Contains Duplicate](https://github.com/omnianasa/Problem-Solving/blob/main/Python/217.%20Contains%20Duplicate.py) |
+| [242. Valid Anagram](https://github.com/omnianasa/Problem-Solving/blob/main/Python/242.%20Valid%20Anagram.py) | [326. Power of Three](https://github.com/omnianasa/Problem-Solving/blob/main/Python/326.%20Power%20of%20Three.py) |
+| [342. Power of Four](https://github.com/omnianasa/Problem-Solving/blob/main/Python/342.%20Power%20of%20Four.py) | [704. Binary Search](https://github.com/omnianasa/Problem-Solving/blob/main/Python/704.%20Binary%20Search.py) |
+| [728. Self Dividing Numbers](https://github.com/omnianasa/Problem-Solving/blob/main/Python/728.%20Self%20Dividing%20Numbers.py) | [836. Rectangle Overlap](https://github.com/omnianasa/Problem-Solving/blob/main/Python/836_Rectangle_Overlap.py) |
+| [2460. Apply Operations to Array](https://github.com/omnianasa/Problem-Solving/blob/main/Python/2460.%20Apply%20Operations%20to%20an%20array.py) | [2461. Max Sum Subarrays (Len K)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/2461.%20Maximum%20Sum%20of%20subarrays%20with%20length%20k.py) |
 
 ---
 
