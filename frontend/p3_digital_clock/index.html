@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h2>Current System Time</h2>
+
+    <div class="clock-container">
+        <div id="clock">
+            <span id="time">00:00:00</span>
+            <span id="ampm" class="am-pm">AM</span>
+        </div>
+    </div>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+            let h = now.getHours();
+            let m = now.getMinutes();
+            let s = now.getSeconds();
+            let ampm = h >= 12 ? "PM" : "AM";
+
+            h = h % 12;
+            h = h ? h : 12;
+
+            h = h < 10 ? "0" + h : h;
+            m = m < 10 ? "0" + m : m;
+            s = s < 10 ? "0" + s : s;
+
+            document.getElementById("time").innerText = h + ":" + m + ":" + s;
+            document.getElementById("ampm").innerText = ampm;
+        }
+
+        setInterval(updateClock, 1000);
+        updateClock(); 
+    </script>
+
+</body>
+
+</html>
