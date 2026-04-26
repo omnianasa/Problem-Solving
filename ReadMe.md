@@ -15,6 +15,8 @@ This repository is a collection of all the coding problems I have solved. It sho
 * [Python](#python-programming)
 * [C++](#cpp-programming)
 * [SQL](#sql-programming)
+* [Web](#web-development)
+
 
 ---
 
@@ -110,5 +112,15 @@ This repository is a collection of all the coding problems I have solved. It sho
 | [3793. High Token Usage](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3793.%20Find%20Users%20with%20High%20Token%20Usage.sql) | |
 
 ---
+
+## Web Development
+
+| Project Name | Tech Stack |
+| :--- | :--- |
+| [1. Google Style](https://github.com/omnianasa/Problem-Solving/tree/main/web/P1_googleStyle) | HTML / CSS |
+| [2. Digital Business Card](https://github.com/omnianasa/Problem-Solving/tree/main/web/P2_digital_business_card) | HTML / CSS |
+| [3. Digital Clock](https://github.com/omnianasa/Problem-Solving/tree/main/web/p3_digital_clock) | HTML / CSS |
+| [4. Snake Game](https://github.com/omnianasa/Problem-Solving/tree/main/web/p4_snake) | HTML / CSS / JS |
+| [5. Todo-list](https://github.com/omnianasa/Problem-Solving/tree/main/web/p5_todolist/todo-list) | REACT |
 
 ---
