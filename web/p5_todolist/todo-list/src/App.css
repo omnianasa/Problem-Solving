@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  width: 450px;
+  margin: 50px auto; 
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 15px; 
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: none;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+pre {
+  white-space: pre-wrap; 
+  font-size: 14px;
+  color: #666;
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 70%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  outline: none;
+  transition: border 0.3s;
+}
+
+input:focus {
+  border-color: #007bff; 
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: opacity 0.2s;
+}
+
+button:first-of-type {
+  background-color: #28a745;
+  color: white;
+}
+
+button:last-of-type {
+  background-color: #dc3545;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+ul {
+  list-style: none; 
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  background: #f4f4f4;
+  margin-bottom: 8px;
+  padding: 12px;
+  border-radius: 5px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-left: 5px solid #007bff; 
+}
