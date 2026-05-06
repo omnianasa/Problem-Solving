@@ -16,6 +16,7 @@ This repository is a collection of all the coding problems I have solved. It sho
 * [C++](#cpp-programming)
 * [SQL](#sql-programming)
 * [Web](#web-development)
+* [Data](#data-collection)
 
 
 ---
@@ -124,3 +125,9 @@ This repository is a collection of all the coding problems I have solved. It sho
 | [5. Todo-list](https://github.com/omnianasa/Problem-Solving/tree/main/web/p5_todolist/todo-list) | REACT |
 
 ---
+
+# Data Collection
+
+[1. The Six Hadeeth Books Dataset](https://huggingface.co/datasets/omnianasa/The-Six-Hadeeth-Books-Dataset)
+
+ *This dataset is a large-scale collection of ~24,000 images representing the primary six books of Hadeeth (Al-Kutub al-Sittah)*
