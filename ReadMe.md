@@ -131,3 +131,7 @@ This repository is a collection of all the coding problems I have solved. It sho
 [1. The Six Hadeeth Books Dataset](https://huggingface.co/datasets/omnianasa/The-Six-Hadeeth-Books-Dataset)
 
  *This dataset is a large-scale collection of ~24,000 images representing the primary six books of Hadeeth (Al-Kutub al-Sittah)*
+
+[2. nasa-apod-metadata](https://huggingface.co/datasets/omnianasa/nasa-apod-metadata)
+
+ *This dataset is a comprehensive historical compilation of metadata from NASA's Astronomy Picture of the Day (APOD)*
