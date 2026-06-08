@@ -1,0 +1,17 @@
+{
+    "servers": {
+        "com.figma.mcp/mcp": {
+            "type": "http",
+            "url": "https://mcp.figma.com/mcp",
+            "gallery": "https://api.mcp.github.com",
+            "version": "1.0.3"
+        },
+        "io.github.github/github-mcp-server": {
+            "type": "http",
+            "url": "https://api.githubcopilot.com/mcp/",
+            "gallery": "https://api.mcp.github.com",
+            "version": "1.2.0"
+        }
+    },
+    "inputs": []
+}
