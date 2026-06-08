@@ -17,6 +17,7 @@ This repository is a collection of all the coding problems I have solved. It sho
 * [SQL](#sql-programming)
 * [Web](#web-development)
 * [Data](#data-collection)
+* [Random](#Random)
 
 
 ---
@@ -135,3 +136,7 @@ This repository is a collection of all the coding problems I have solved. It sho
 [2. nasa-apod-metadata](https://huggingface.co/datasets/omnianasa/nasa-apod-metadata)
 
  *This dataset is a comprehensive historical compilation of metadata from NASA's Astronomy Picture of the Day (APOD)*
+
+ # Random
+ 
+ [Using MCP with Copilot CLI: An Experiment](https://github.com/omnianasa/Problem-Solving/blob/main/ANALYSIS_REPORT.md) 
