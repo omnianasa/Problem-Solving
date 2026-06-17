@@ -1,0 +1,19 @@
+/*
+Enter your query here.
+*/
+
+select n,
+       case
+          when p is null then
+             'Root'
+          when n not in (
+             select distinct p
+               from bst
+              where p is not null
+          ) then
+             'Leaf'
+          else
+             'Inner'
+       end
+  from bst
+ order by n;
