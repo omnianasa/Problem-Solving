@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ballerina on Idea10 Music Dancing</title>
+</head>
+
+<body>
+    <h1 align="center">Ballerina on Idea10 Music Dancing</h1>
+    <!-- The <video> tag is used to embed a video in an HTML page. -->
+    <!-- The controls attribute adds video controls, like play, pause, and volume. -->
+    <!-- The loop attribute makes the video start over again, every time it is finished. -->
+    <!-- The muted attribute mutes the audio of the video. -->
+    <!-- The autoplay attribute makes the video start playing as soon as it is ready. -->
+    <!-- The align attribute specifies the alignment of the video. -->
+    <!-- The poster attribute specifies an image to be shown while the video is downloading, or until
+    the user hits the play button. -->
+    <!--preload attribute specifies if and how the author thinks the video should be loaded when the page loads. -->
+
+    <video controls loop muted autoplay align="center">
+        <source src="ballerina.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <video controls loop muted align="center" poster="girl.jpg" preload="metadata">
+        <source src="ballerina.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        <!-- The <track> tag is used to specify text tracks for media elements (<video> and <audio>). -->
+        <track default src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+    </video>
+    <audio controls loop autoplay align="center">
+        <source src="Gibran Alcocer-Idea 10.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+
+</html>
