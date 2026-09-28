@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+</head>
+
+<body>
+
+    <h1>Links</h1>
+    <!-- a refers to an anchor tag -->
+    <!-- href refers to the hyperlink reference -->
+    <a href="https://www.google.com">Google</a>
+    <br>
+    <a href="https://www.facebook.com">Facebook</a>
+    <br>
+    <a href="https://www.twitter.com">Twitter</a>
+    <br>
+    <a href="https://www.instagram.com">Instagram</a>
+    <br>
+    <a href="https://www.linkedin.com">LinkedIn</a>
+    <br>
+    <a href="https://www.youtube.com">YouTube</a>
+
+    <!--Link Controls attributes-->
+    <!--_blank opens the link in a new tab -->
+    <!--_self opens the link in the same tab -->
+    <!--_top opens the link in the top tab -->
+    <!--_parent opens the link in the parent tab -->
+    <br>
+    <a href="https://www.google.com" target="_blank">Google (Open in New Tab)</a>
+    <br>
+    <a href="https://www.facebook.com" target="_self">Facebook (Open in Same Tab)</a>
+    <br>
+    <a href="https://www.twitter.com" target="_top">Twitter (Open in Top Tab)</a>
+    <br>
+    <a href="https://www.instagram.com" target="_parent">Instagram (Open in Parent Tab)</a>
+    <br>
+    <!--We can use an image as a link-->
+    <a href="https://www.linkedin.com" target="_blank">
+        <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google Logo">
+    </a>
+    <!--We can use a button as a link-->
+    <button onclick="window.location.href='https://www.google.com'">Visit Google</button>
+    <!-- we can refer to a section using its ID to get to it -->
+    <section id="section1">
+        <h2>Section</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, corrupti! Voluptatem sit tempora error
+            qui nam veniam dignissimos praesentium? Magnam architecto, itaque repellendus harum aut quia sit
+            exercitationem esse excepturi.</p>
+    </section>
+    <article id="article1">
+        <h2>Article</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, corrupti! Voluptatem sit tempora error
+            qui nam veniam dignissimos praesentium? Magnam architecto, itaque repellendus harum aut quia sit
+            exercitationem esse excepturi.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, corrupti! Voluptatem sit tempora error
+            qui nam veniam dignissimos praesentium? Magnam architecto, itaque repellendus harum aut quia sit
+            exercitationem esse excepturi.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, corrupti! Voluptatem sit tempora error
+            qui nam veniam dignissimos praesentium? Magnam architecto, itaque repellendus harum aut quia sit
+            exercitationem esse excepturi.</p>
+
+    </article>
+    <section id="section2">
+        <h2>Section</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, corrupti! Voluptatem sit tempora error
+            qui nam veniam dignissimos praesentium? Magnam architecto, itaque repellendus harum aut quia sit
+            exercitationem esse excepturi.</p>
+    </section>
+    <search id="search1">
+        <h2>Search</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, corrupti! Voluptatem sit tempora error
+            qui nam veniam dignissimos praesentium? Magnam architecto, itaque repellendus harum aut quia sit
+            exercitationem esse excepturi.</p>
+    </search>
+    <!-- so here we have use hash (#) to link to a section -->
+    <a href="#section1">Go to Section 1</a>
+    <search id="search2">
+        <h2>Search</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, corrupti! Voluptatem sit tempora error
+            qui nam veniam dignissimos praesentium? Magnam architecto, itaque repellendus harum aut quia sit
+            exercitationem esse excepturi.</p>
+    </search>
+
+    <!-- so here we have many other types of links -->
+    <!-- mailto refers to an email link -->
+    <!-- tel refers to a telephone link -->
+    <!-- sms refers to a text message link -->
+    <!-- geo refers to a location link -->
+    <!-- ftp refers to a file transfer protocol link -->
+    <!-- javascript refers to a javascript link -->
+    <a href="mailto:user@example.com">Contact Us</a>
+    <a href="tel:+1234567890">Call Us</a>
+    <a href="sms:+1234567890">Send SMS</a>
+    <a href="geo:37.7749,-122.4194">View Location</a>
+    <a href="ftp://example.com/file.txt">Download File</a>
+    <a href="javascript:alert('Hello, World!')">Click Me</a>
+</body>
+
+</html>
