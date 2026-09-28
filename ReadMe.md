@@ -153,6 +153,10 @@ This repository is a collection of all the coding problems I have solved. It sho
 
 *The dataset contains 58 consecutive days of de-identified cybersecurity event data collected from five sources within the corporate, internal computer network of Los Alamos National Laboratory (LANL)*
 
+[4. Voxceleb2 audio dataset](https://www.kaggle.com/datasets/omniaayman1/voxceleb2-audio/)
+
+*VoxCeleb2 audio dataset stored in AAC/M4A format for speaker verification and speech authentication applications*
+
  # Random
  
  [Using MCP with Copilot CLI: An Experiment](https://github.com/omnianasa/Problem-Solving/blob/main/ANALYSIS_REPORT.md) 
