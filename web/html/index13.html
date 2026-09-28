@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TextArea</title>
+</head>
+
+<body>
+    <h1>TextArea</h1>
+    <!-- textarea is used to create a multi-line text input field -->
+    <!-- rows is the attribute that specifies the number of visible text lines for the control -->
+    <!-- cols is the attribute that specifies the visible width of the text control -->
+    <!-- placeholder is the attribute that specifies a short hint that describes the expected value of the textarea -->
+    <label for="message">Message:</label>
+    <textarea name="message" id="message" rows="5" cols="40" placeholder="Enter your message here..."></textarea>
+
+
+    <hr>
+    <!-- This form is used to submit user input -->
+    <!-- novalidate is the attribute that disables the browser's default validation for the form -->
+    <!-- action is the attribute that specifies where to send the form data when the form is submitted -->
+    <!-- method is the attribute that specifies the HTTP method to use when sending form data -->
+    <form action="/submit" method="post" novalidate>
+        <div>
+            <label for="title">Title:</label>
+            <input type="text" name="title" id="title" placeholder="Enter a title..." required>
+
+        </div>
+        <br>
+        <div>
+            <!-- This textarea is used to collect a description from the user -->
+            <!-- minlength is the attribute that specifies the minimum number of characters required in the textarea -->
+            <!-- maxlength is the attribute that specifies the maximum number of characters allowed in the textarea -->
+            <!-- type is the attribute that specifies the type of input field (text) -->
+            <!-- required is the attribute that specifies that the textarea must be filled out before submitting the form -->
+            <!-- placeholder is the attribute that specifies a short hint that describes the expected value of the textarea -->
+            <!-- rows is the attribute that specifies the number of visible text lines for the control -->
+            <!-- cols is the attribute that specifies the visible width of the text control -->
+            <!-- name is the attribute that specifies the name of the textarea -->
+            <!-- id is the attribute that specifies a unique identifier for the textarea -->
+            <!-- label is used to provide a caption for the textarea -->
+            <!-- for is the attribute that links the label to the textarea -->
+            <!-- This label is used to describe the purpose of the textarea -->
+            <!-- This input field is used to collect a title from the user -->
+            <!-- This input field is required and must be filled out before submitting the form -->
+            <!-- This input field has a placeholder that provides a hint to the user about what to enter -->
+            <!-- This input field has an id and name attribute that can be used to identify it in JavaScript or CSS -->
+            <!-- This input field has a type attribute set to "text" which means it will accept any text input -->
+            <!-- This input field has a minlength and maxlength attribute that specify the minimum and maximum number of characters allowed -->
+            <!-- This input field has a required attribute which means it must be filled out before submitting the form -->
+            <!-- This input field has a placeholder attribute which provides a hint to the user about what to enter -->
+            <!--autofocus set to true to focus on this field when the page loads-->
+            <label for="description">Description:</label>
+            <textarea name="description" id="description" rows="4" cols="50" placeholder="Enter a description..."
+                required minlength="10" maxlength="200" type="text" autofocus></textarea>
+        </div>
+        <input type="submit" value="Submit">
+
+    </form>
+</body>
+
+</html>
