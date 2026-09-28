@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+
+    <h1 style="text-align: center;">How to make a Form</h1>
+    <!-- form is used to collect user input -->
+    <!-- action is the URL where the form data will be sent -->
+    <!-- method is the HTTP method used to send the form data (GET or POST) -->
+    <form action="/submit" method="post">
+        <!--fieldset is used to group related elements in a form -->
+        <fieldset>
+            <!--legend is used to provide a caption for the fieldset -->
+            <legend>Personal Information</legend>
+            <!--label is the text that describes the input field -->
+            <!-- for is the attribute that links the label to the input field -->
+            <label for="name">Name:</label>
+            <!-- input is the field where the user can enter data -->
+            <!-- type="text" refers to the type of input field (text) -->
+            <!-- id is the unique identifier for the input field -->
+            <!-- name is the name of the input field -->
+            <!-- required is the attribute that makes the input field mandatory -->
+            <!-- placeholder is the text that appears in the input field before the user enters data -->
+            <!-- value is the default value that appears in the input field -->
+            <input type="text" id="name" name="name" required placeholder="Enter your name" value="John Doe">
+            <br><br>
+            <!--another label and input field for email-->
+            <label for="email">Email:</label>
+            <!-- type="email" refers to the type of input field (email) -->
+            <!-- required is the attribute that makes the input field mandatory -->
+            <!-- id is the unique identifier for the input field -->
+            <!-- name is the name of the input field -->
+            <input type="email" id="email" name="email" required placeholder="Enter your email">
+            <br><br>
+            <!--another label and input field for password-->
+            <label for="password">Password:</label>
+            <!-- type="password" refers to the type of input field (password) -->
+            <!-- required is the attribute that makes the input field mandatory -->
+            <!-- id is the unique identifier for the input field -->
+            <!-- name is the name of the input field -->
+            <input type="password" id="password" name="password" required placeholder="Enter your password">
+            <br><br>
+            <!--another label and input field for age-->
+            <label for="age">Age:</label>
+            <!-- type="number" refers to the type of input field (number) -->
+            <!-- min is the minimum value for the input field -->
+            <!-- max is the maximum value for the input field -->
+            <!-- id is the unique identifier for the input field -->
+            <!-- name is the name of the input field -->
+            <input type="number" id="age" name="age" min="1" max="120" placeholder="Enter your age">
+            <br><br>
+            <!--another label and input field for gender-->
+            <label for="gender">Gender:</label>
+            <!-- select is the dropdown list -->
+
+            <select id="gender" name="gender">
+                <!-- option is the individual item in the dropdown list -->
+                <option value="">Select</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+            <br><br>
+            <!--submit button-->
+            <!-- type="submit" refers to the type of button (submit) -->
+            <!-- value is the text that appears on the button -->
+            <input type="submit" value="Submit">
+        </fieldset>
+    </form>
+
+
+</body>
+
+</html>
