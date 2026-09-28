@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input types</title>
+</head>
+
+<body>
+    <h1>Input Types</h1>
+    <!-- input is used to create an input field -->
+    <!-- type refers to the type of input field -->
+    <!-- placeholder is the text that appears in the input field before the user enters data -->
+    <!-- required is the attribute that makes the input field mandatory -->
+    <!-- value is the default value that appears in the input field -->
+    <!-- min is the minimum value for the input field -->
+    <!-- max is the maximum value for the input field -->
+    <!-- step is the increment/decrement value for the input field -->
+    <!-- pattern is the regular expression that the input field must match -->
+    <!-- readonly is the attribute that makes the input field read-only -->
+    <!-- disabled is the attribute that makes the input field disabled -->
+    <!-- autofocus is the attribute that makes the input field focused when the page loads -->
+    <!-- multiple is the attribute that allows multiple values to be entered in the input field -->
+    <!-- accept is the attribute that specifies the types of files that can be uploaded in a file input field -->
+    <!--there are many types of input fields and here are some examples-->
+    <!-- text, password, email, number, date, color, checkbox, radio, file, range, submit, reset, search, url -->
+    <input type="text" placeholder="Enter your name" required value="John Doe" autofocus>
+    <br>
+    <input type="password" placeholder="Enter your password" required>
+    <br>
+    <input type="email" placeholder="Enter your email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+    <br>
+    <input type="number" placeholder="Enter your age" min="1" max="120" step="5">
+    <br>
+    <input type="text" placeholder="Enter your country" disabled>
+    <br>
+    <input type="text" placeholder="Cairo/" readonly>
+    <br>
+    <input type="date">
+    <br>
+    <input type="color">
+    <br>
+    <input type="checkbox" id="checkbox1">
+    <label for="checkbox1">Checkbox 1</label>
+    <br>
+    <input type="checkbox" id="checkbox2">
+    <label for="checkbox2">Checkbox 2</label>
+    <br>
+    <input type="radio" name="radio" id="radio1">
+    <label for="radio1">Radio 1</label>
+    <input type="radio" name="radio" id="radio2">
+    <label for="radio2">Radio 2</label>
+    <br>
+    <input type="file">
+    <br>
+    <input type="range" min="1" max="100">
+    <br>
+    <input type="submit" value="Submit">
+
+    <input type="reset" value="Reset">
+    <br>
+    <input type="search" placeholder="Search...">
+    <br>
+    <input type="url" placeholder="Enter your website URL">
+    <br>
+
+
+</body>
+
+</html>
