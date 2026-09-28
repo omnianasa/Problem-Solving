@@ -99,8 +99,6 @@ This repository is a collection of all the coding problems I have solved. It sho
 | [1890. Latest Login 2020](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1890.%20The%20Latest%20Login%20in%202020.sql) | [1965. Missing Information](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1965.%20Employees%20With%20Missing%20Information.sql) | [1978. Managers Left Company](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.sql) | [2356. Unique Subjects Taught](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql) | [3436. Find Valid Emails](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3436.%20Find%20Valid%20Emails.sql) |
 | [3465. Valid Serial Numbers](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers.sql) | [3570. Books w/ No Copies](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3570.%20Find%20Books%20with%20No%20Available%20Copies.sql) | [3793. High Token Usage](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3793.%20Find%20Users%20with%20High%20Token%20Usage.sql) | | |
 
-#### LeetCode(Medium)
-
 ##### Hackerrank SQL Solutions
 
 ##### Basic
@@ -122,7 +120,7 @@ This repository is a collection of all the coding problems I have solved. It sho
 | [Intermediate-Binary Tree Nodes](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Binary%20Tree%20Nodes.sql) | [Intermediate-New Companies](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-New%20Companies.sql) | [Intermediate-Placements](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Placements.sql) | [Intermediate-The Report](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-The%20Report.sql) | [Intermediate-Weather Observation Station 20](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Weather%20Observation%20Station%2020.sql) |
 | [Intermediate-Weather Observation Station 5](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Weather%20Observation%20Station%205.sql) | - | - | - | - |
 
-## Hard
+##### Hard
 | 1 | 2 | 3 | 4 | 5 |
 | :--- | :--- | :--- | :--- | :--- |
 | [Hard-15 Days of Learning SQL](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Hard-15%20Days%20of%20Learning%20SQL.sql) | - | - | - | - |
@@ -150,6 +148,10 @@ This repository is a collection of all the coding problems I have solved. It sho
 [2. nasa-apod-metadata](https://huggingface.co/datasets/omnianasa/nasa-apod-metadata)
 
  *This dataset is a comprehensive historical compilation of metadata from NASA's Astronomy Picture of the Day (APOD)*
+
+[3. Comprehensive, Multi-Source Cyber-Security Events](https://www.kaggle.com/datasets/omniaayman1/comprehensive-multi-source-cyber-security-events)
+
+*The dataset contains 58 consecutive days of de-identified cybersecurity event data collected from five sources within the corporate, internal computer network of Los Alamos National Laboratory (LANL)*
 
  # Random
  
