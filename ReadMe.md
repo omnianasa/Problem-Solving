@@ -17,6 +17,7 @@ This repository is a collection of all the coding problems I have solved. It sho
 * [SQL](#sql-programming)
 * [Web](#web-development)
 * [Data](#data-collection)
+* [Network](#network)
 * [Random](#Random)
 
 
@@ -137,25 +138,25 @@ This repository is a collection of all the coding problems I have solved. It sho
 | [4. Snake Game](https://github.com/omnianasa/Problem-Solving/tree/main/web/p4_snake) | HTML / CSS / JS |
 | [5. Todo-list](https://github.com/omnianasa/Problem-Solving/tree/main/web/p5_todolist/todo-list) | REACT |
 
+#### HTML
+You will find around 13 files covering fundamental HTML concepts and practical exercises to help you build a strong foundation for your journey as a frontend engineer. [HTML Classes](https://github.com/omnianasa/Problem-Solving/tree/main/web/html)
+
 ---
 
 # Data Collection
 
-[1. The Six Hadeeth Books Dataset](https://huggingface.co/datasets/omnianasa/The-Six-Hadeeth-Books-Dataset)
+| # | Dataset                                              | Platform                                                                                               | Description                                                                                                                           |
+| - | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | The Six Hadeeth Books Dataset                   | [Hugging Face](https://huggingface.co/datasets/omnianasa/The-Six-Hadeeth-Books-Dataset)                | A large-scale collection of approximately 24,000 images representing the six primary books of Hadeeth (Al-Kutub al-Sittah).           |
+| 2 | NASA APOD Metadata                               | [Hugging Face](https://huggingface.co/datasets/omnianasa/nasa-apod-metadata)                           | A historical collection of metadata from NASA's Astronomy Picture of the Day (APOD).                                                  |
+| 3 | Comprehensive, Multi-Source Cybersecurity Events | [Kaggle](https://www.kaggle.com/datasets/omniaayman1/comprehensive-multi-source-cyber-security-events) | De-identified cybersecurity event data covering 58 consecutive days and collected from five sources within the LANL internal network. |
+| 4 | VoxCeleb2 Audio Dataset                          | [Kaggle](https://www.kaggle.com/datasets/omniaayman1/voxceleb2-audio/)                                 | VoxCeleb2 audio data stored in AAC/M4A format for speaker verification and speech authentication applications.                        |
 
- *This dataset is a large-scale collection of ~24,000 images representing the primary six books of Hadeeth (Al-Kutub al-Sittah)*
+<a name="network"></a>
+## Network 
 
-[2. nasa-apod-metadata](https://huggingface.co/datasets/omnianasa/nasa-apod-metadata)
+I am not a big fan of the networking track, but I included it in my knowledge section because I studied it in college and completed a one-month online internship with NTI around 2024, as far as I remember. I have also included some of the exercises I worked on during the internship to reflect the level of knowledge and practical experience I gained in this area. [Network Exercises From NTI](https://github.com/omnianasa/Problem-Solving/tree/main/Network(NTI)/)
 
- *This dataset is a comprehensive historical compilation of metadata from NASA's Astronomy Picture of the Day (APOD)*
-
-[3. Comprehensive, Multi-Source Cyber-Security Events](https://www.kaggle.com/datasets/omniaayman1/comprehensive-multi-source-cyber-security-events)
-
-*The dataset contains 58 consecutive days of de-identified cybersecurity event data collected from five sources within the corporate, internal computer network of Los Alamos National Laboratory (LANL)*
-
-[4. Voxceleb2 audio dataset](https://www.kaggle.com/datasets/omniaayman1/voxceleb2-audio/)
-
-*VoxCeleb2 audio dataset stored in AAC/M4A format for speaker verification and speech authentication applications*
 
  # Random
  
