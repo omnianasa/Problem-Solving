@@ -13,12 +13,12 @@ This repository is a collection of all the coding problems I have solved. It sho
 
 | Language / Domain | Description & Solutions | ReadMe |
 | :--- | :--- | :--- |
-| **Assembly** | Low-level programming and hardware-level problem solutions. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/Assembly/ReadMe.md) |
-| **Java Programming** | data structures, and algorithmic problems solved in Java. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/java/ReadMe.md) |
-| **Python** | problem-solving solutions implemented in Python. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/python/ReadMe.md) |
-| **SQL** | Database queries, data manipulation, complex joins | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/SQL/ReadMe.md) |
-| **Web** | Web development challenges, frontend/backend tasks | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/web/ReadMe.md) |
-| **Data** | collecting different types of datasets| [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/data/ReadMe.md) |
+| **Assembly** | Low-level programming and hardware-level problem solutions. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/ReadMe.md) |
+| **Java Programming** | data structures, and algorithmic problems solved in Java. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/main/java/ReadMe.md) |
+| **Python** | problem-solving solutions implemented in Python. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/main/python/ReadMe.md) |
+| **SQL** | Database queries, data manipulation, complex joins | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/ReadMe.md) |
+| **Web** | Web development challenges, frontend/backend tasks | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/main/web/ReadMe.md) |
+| **Data** | collecting different types of datasets| [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/main/data/ReadMe.md) |
 
 ---
 
