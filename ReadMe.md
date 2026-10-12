@@ -1,4 +1,5 @@
-# 🧠 Problem Solving 
+# 🧠 Problem Solving #V2.0
+
 
 This repository is a collection of all the coding problems I have solved. It shows my progress in learning different programming languages, algorithms, and data structures.
 
@@ -10,154 +11,19 @@ This repository is a collection of all the coding problems I have solved. It sho
 
 ## Table of Contents
 
-* [Assembly](#assembly)
-* [Java Programming](#java-programming)
-* [Python](#python-programming)
-* [C++](#cpp-programming)
-* [SQL](#sql-programming)
-* [Web](#web-development)
-* [Data](#data-collection)
-* [Network](#network)
-* [Random](#Random)
-
-
----
-
-<a name="assembly"></a>
-## Assembly (Low Level)
-
-| Category | Problem | Problem |
+| Language / Domain | Description & Solutions | ReadMe |
 | :--- | :--- | :--- |
-| **Basics & Control** | [Simple Addition](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Basics/Simple%20addition.asm) | [Subtraction With Check](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Basics/Subtraction%20with%20check.asm) |
-| | [Summation Loop](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Basics/Summation%20loop.asm) | [Multiply From Scratch](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Basics/multiblyFromScratch.asm) |
-| | [Max Number Of Array](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Control%20Flow%20%26%20loops/MaxNumberOfArray.asm) | [Sum Of Array Elements](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Control%20Flow%20%26%20loops/SumOfArrayElements.asm) |
-| | [Reverse Array](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Control%20Flow%20%26%20loops/reverseArray.asm) | [Print Array (Standard)](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Control%20Flow%20%26%20loops/printArrayElements.asm) |
-| | [Print Array (Improved)](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Control%20Flow%20%26%20loops/printingArrayElementsImproved.asm) | [Print Array (Alt)](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Control%20Flow%20%26%20loops/printingArrayElements_anotherWay.asm) |
-| **Functions & Logic** | [Absolute](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Functions/Absolute.asm) | [Factorial](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Functions/Factorial.asm) |
-| | [Factorial Recursive](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Functions/FactorialRecursiveFunction.asm) | [Add Numbers](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Functions/add_numbersFunction.asm) |
-| | [Find Max Number](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Functions/find_maxFunction.asm) | [Sum5 Function](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Functions/sum5Function.asm) |
-| | [Sum Array](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Functions/sum_arrayFunction.asm) | **[Get Determinant](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Advanced/determinant.asm)** |
-| **Sheet #1 Solutions** | [A- Say Hello](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/A-%20say%20hello%20with%20assembly.asm) | [B- Basic DataType](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/B-%20Basic%20DataType.asm) |
-| | [C- Simple Calculator](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/C-%20simple%20calculator.asm) | [D- Difference](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/D.%20Difference.asm) |
-| | [G- Summation 1 to N](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/G.%20Summation%20from%201%20to%20N.asm) | [I- Welcome (Conditions)](https://github.com/omnianasa/Problem-Solving/blob/main/Assembly/Sheet%20%231%20(Data%20type-Conditions)/I.%20Welcome%20for%20you%20with%20Conditions.asm) |
-
+| **Assembly** | Low-level programming and hardware-level problem solutions. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/Assembly/ReadMe.md) |
+| **Java Programming** | data structures, and algorithmic problems solved in Java. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/java/ReadMe.md) |
+| **Python** | problem-solving solutions implemented in Python. | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/python/ReadMe.md) |
+| **SQL** | Database queries, data manipulation, complex joins | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/SQL/ReadMe.md) |
+| **Web** | Web development challenges, frontend/backend tasks | [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/web/ReadMe.md) |
+| **Data** | collecting different types of datasets| [View ReadMe](https://github.com/omnianasa/Problem-Solving/blob/version2/data/ReadMe.md) |
 
 ---
 
-<a name="java-programming"></a>
-## Java Programming
+### About This Repository
 
----
+Each folder contains organized solutions grouped by topics, platforms (like LeetCode, HackerRank, Codeforces, etc.), or specific concepts. Dive into any subfolder via the Table of Contents above to explore code files and specific notes for each question.
 
-<a name="python-programming"></a>
-## Python Programming
-| Problem | Problem |
-| :--- | :--- |
-| [1. Two Sum](https://github.com/omnianasa/Problem-Solving/blob/main/Python/1.%20Two%20Sum.py) | [4. Median Of Two Sorted Arrays](https://github.com/omnianasa/Problem-Solving/blob/main/Python/4.%20Median%20Of%20Two%20Sorted%20Arrays.py) |
-| [9. Palindrome Number](https://github.com/omnianasa/Problem-Solving/blob/main/Python/9.%20Palindrome%20Number.py) | [13. Roman to Int](https://github.com/omnianasa/Problem-Solving/blob/main/Python/13.%20roman%20to%20int.py) |
-| [26. Remove Duplicates (Sorted)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | [27. Remove Element](https://github.com/omnianasa/Problem-Solving/blob/main/Python/27.%20Remove%20Element.py) |
-| [50. Pow(x, n)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/50.%20Pow(x,%20n).py) | [66. Plus One](https://github.com/omnianasa/Problem-Solving/blob/main/Python/66.%20Plus%20One.py) |
-| [69. Sqrt(x)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/69.%20Sqrt(x).py) | [70. Climbing Stairs](https://github.com/omnianasa/Problem-Solving/blob/main/Python/70.%20Climbing%20Stairs.py) |
-| [125. Valid Palindrome](https://github.com/omnianasa/Problem-Solving/blob/main/Python/125.%20Valid%20Palindrome.py) | [217. Contains Duplicate](https://github.com/omnianasa/Problem-Solving/blob/main/Python/217.%20Contains%20Duplicate.py) |
-| [242. Valid Anagram](https://github.com/omnianasa/Problem-Solving/blob/main/Python/242.%20Valid%20Anagram.py) | [326. Power of Three](https://github.com/omnianasa/Problem-Solving/blob/main/Python/326.%20Power%20of%20Three.py) |
-| [342. Power of Four](https://github.com/omnianasa/Problem-Solving/blob/main/Python/342.%20Power%20of%20Four.py) | [704. Binary Search](https://github.com/omnianasa/Problem-Solving/blob/main/Python/704.%20Binary%20Search.py) |
-| [728. Self Dividing Numbers](https://github.com/omnianasa/Problem-Solving/blob/main/Python/728.%20Self%20Dividing%20Numbers.py) | [836. Rectangle Overlap](https://github.com/omnianasa/Problem-Solving/blob/main/Python/836_Rectangle_Overlap.py) |
-| [2460. Apply Operations to Array](https://github.com/omnianasa/Problem-Solving/blob/main/Python/2460.%20Apply%20Operations%20to%20an%20array.py) | [2461. Max Sum Subarrays (Len K)](https://github.com/omnianasa/Problem-Solving/blob/main/Python/2461.%20Maximum%20Sum%20of%20subarrays%20with%20length%20k.py) |
-
----
-
----
-
-<a name="cpp-programming"></a>
-## C++ Programming
-
-| Problem | Problem |
-| :--- | :--- |
-| [Anton and Danik](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Anton_and_Danik.cpp) | [Bear and Big Brother](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Bear_and_Big_Brother.cpp) |
-| [Beautiful Matrix](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Beautiful_Matrix.cpp) | [Boy or Girl](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Boy_or_Girl.cpp) |
-| [Gravity Flip](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Gravity_Flip.cpp) | [Petya and Strings](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Petya_and_Strings.cpp) |
-| [Team](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Team.cpp) | [Vanya and Fence](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/Vanya_and_Fence.cpp) |
-| [Word](https://github.com/omnianasa/Problem-Solving/blob/main/C%2B%2B/codeforces/word.cpp) | |
-
----
-
-<a name="sql-programming"></a>
-## SQL Programming
-
-#### LeetCode(Easy)
-
-| 1 | 2 | 3 | 4 | 5 |
-| :--- | :--- | :--- | :--- | :--- |
-| [175. Combine Two Tables](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/175.Combine%20Two%20Tables.sql) | [181. Employees Earning More Than Managers](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql) | [182. Duplicate Emails](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/182.%20Duplicate%20Emails.sql) | [183. Customers Who Never Order](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/183.%20Customers%20Who%20Never%20Order.sql) | [197. Rising Temperature](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/197.%20Rising%20Temperature.sql) |
-| [511. Game Play Analysis I](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/511.%20Game%20Play%20Analysis%20I.sql) | [577. Employee Bonus](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/577.%20Employee%20Bonus.sql) | [584. Find Customer Referee](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/584.%20Find%20Customer%20Referee.sql) | [586. Customer w/ Largest Orders](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql) | [595. Big Countries](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/595.%20Big%20Countries.sql) |
-| [596. Classes With 5+ Students](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/596.%20Classes%20With%20at%20Least%205%20Students.sql) | [610. Triangle Judgement](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/610.%20Triangle%20Judgement.sql) | [619. Biggest Single Number](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/619.%20Biggest%20Single%20Number.sql) | [620. Not Boring Movies](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/620.%20Not%20Boring%20Movies.sql) | [627. Swap Sex of Employees](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/627.%20Swap%20Sex%20of%20Employees.sql) |
-| [1050. Actors and Directors Co-op](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql) | [1068. Product Sales Analysis I](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1068.%20Product%20Sales%20Analysis%20I.sql) | [1075. Project Employees I](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1075.%20Project%20Employees%20I.sql) | [1084. Sales Analysis III](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1084.%20Sales%20Analysis%20III.sql) | [1141. User Activity (30 Days)](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql) |
-| [1148. Article Views I](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1148.%20Article%20Views%20I.sql) | [1179. Reformat Dept Table](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1179.%20Reformat%20Department%20Table.sql) | [1211. Queries Quality and %](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1211.%20Queries%20Quality%20and%20Percentage.sql) | [1251. Average Selling Price](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1251.%20Average%20Selling%20Price.sql) | [1280. Students and Exams](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1280.%20Students%20and%20Examinations.sql) |
-| [1327. Products in a Period](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.sql) | [1378. Unique Identifiers](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) | [1407. Top Travellers](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1407.%20Top%20Travellers.sql) | [1484. Group Products by Date](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql) | [1517. Valid E-Mails](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1517.%20Find%20Users%20With%20Valid%20E-Mails.sql) |
-| [1527. Patients with Condition](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1527.%20Patients%20With%20a%20Condition.sql) | [1581. Visited but No Trans.](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) | [1587. Bank Account Summary II](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1587.%20Bank%20Account%20Summary%20II.sql) | [1633. Contest Attendance %](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.sql) | [1661. Avg Process Time](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql) |
-| [1667. Fix Names in Table](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1667.%20Fix%20Names%20in%20a%20Table.sql) | [1683. Invalid Tweets](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1683.%20Invalid%20Tweets.sql) | [1693. Daily Leads & Partners](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1693.%20Daily%20Leads%20and%20Partners.sql) | [1729. Find Followers Count](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1729.%20Find%20Followers%20Count.sql) | [1731. Reporting Employees](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) |
-| [1741. Total Time Spent](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql) | [1757. Recyclable/Low Fat](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql) | [1789. Primary Department](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1789.%20Primary%20Department%20for%20Each%20Employee.sql) | [1795. Rearrange Products Table](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1795.%20Rearrange%20Products%20Table.sql) | [1873. Calculate Special Bonus](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1873.%20Calculate%20Special%20Bonus.sql) |
-| [1890. Latest Login 2020](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1890.%20The%20Latest%20Login%20in%202020.sql) | [1965. Missing Information](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1965.%20Employees%20With%20Missing%20Information.sql) | [1978. Managers Left Company](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.sql) | [2356. Unique Subjects Taught](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql) | [3436. Find Valid Emails](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3436.%20Find%20Valid%20Emails.sql) |
-| [3465. Valid Serial Numbers](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers.sql) | [3570. Books w/ No Copies](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3570.%20Find%20Books%20with%20No%20Available%20Copies.sql) | [3793. High Token Usage](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/3793.%20Find%20Users%20with%20High%20Token%20Usage.sql) | | |
-
-##### Hackerrank SQL Solutions
-
-##### Basic
-| 1 | 2 | 3 | 4 | 5 |
-| :--- | :--- | :--- | :--- | :--- |
-| [Basic-African Cities](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-African%20Cities.sql) | [Basic-Average Population of Each Continent](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Average%20Population%20of%20Each%20Continent.sql) | [Basic-Average Population](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Average%20Population.sql) | [Basic-Employee Names](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Employee%20Names.sql) | [Basic-Higher Than 75 Marks](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Higher%20Than%2075%20Marks.sql) |
-| [Basic-Japan Population](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Japan%20Population.sql) | [Basic-Japanese Cities' Attributes](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Japanese%20Cities%27%20Attributes.sql) | [Basic-Japanese Cities' Names](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Japanese%20Cities%27%20Names.sql) | [Basic-Occupations](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Occupations.sql) | [Basic-Population Census](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Population%20Census.sql) |
-| [Basic-Population Density Difference](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Population%20Density%20Difference.sql) | [Basic-Revising Aggregations - Averages](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Revising%20Aggregations%20-%20Averages.sql) | [Basic-Revising Aggregations - The Count Function](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Revising%20Aggregations%20-%20The%20Count%20Function.sql) | [Basic-Revising Aggregations - The Sum Function](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Revising%20Aggregations%20-%20The%20Sum%20Function.sql) | [Basic-Revising the Select Query I](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Revising%20the%20Select%20Query%20I.sql) |
-| [Basic-Revising the Select Query II](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Revising%20the%20Select%20Query%20II.sql) | [Basic-Select All](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Select%20All.sql) | [Basic-Select By ID](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Select%20By%20ID.sql) | [Basic-The Blunder](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-The%20Blunder.sql) | [Basic-The PADS](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-The%20PADS.sql) |
-| [Basic-Top Earners](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Top%20Earners.sql) | [Basic-Type of Triangle](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Type%20of%20Triangle.sql) | [Basic-Weather Observation Station 1](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%201.sql) | [Basic-Weather Observation Station 10](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2010.sql) | [Basic-Weather Observation Station 11](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2011.sql) |
-| [Basic-Weather Observation Station 12](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2012.sql) | [Basic-Weather Observation Station 13](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2013.sql) | [Basic-Weather Observation Station 14](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2014.sql) | [Basic-Weather Observation Station 15](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2015.sql) | [Basic-Weather Observation Station 16](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2016.sql) |
-| [Basic-Weather Observation Station 17](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2017.sql) | [Basic-Weather Observation Station 18](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2018.sql) | [Basic-Weather Observation Station 19](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%2019.sql) | [Basic-Weather Observation Station 2](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%202.sql) | [Basic-Weather Observation Station 3](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%203.sql) |
-| [Basic-Weather Observation Station 4](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%204.sql) | [Basic-Weather Observation Station 6](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%206.sql) | [Basic-Weather Observation Station 7](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%207.sql) | [Basic-Weather Observation Station 8](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%208.sql) | [Basic-Weather Observation Station 9](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic-Weather%20Observation%20Station%209.sql) |
-| [Basic_Employee Salaries](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Basic_Employee%20Salaries.sql) | - | - | - | - |
-
-##### Intermediate
-| 1 | 2 | 3 | 4 | 5 |
-| :--- | :--- | :--- | :--- | :--- |
-| [Intermediate-Binary Tree Nodes](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Binary%20Tree%20Nodes.sql) | [Intermediate-New Companies](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-New%20Companies.sql) | [Intermediate-Placements](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Placements.sql) | [Intermediate-The Report](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-The%20Report.sql) | [Intermediate-Weather Observation Station 20](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Weather%20Observation%20Station%2020.sql) |
-| [Intermediate-Weather Observation Station 5](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Intermediate-Weather%20Observation%20Station%205.sql) | - | - | - | - |
-
-##### Hard
-| 1 | 2 | 3 | 4 | 5 |
-| :--- | :--- | :--- | :--- | :--- |
-| [Hard-15 Days of Learning SQL](https://github.com/omnianasa/Problem-Solving/blob/main/SQL/hackerrank/Hard-15%20Days%20of%20Learning%20SQL.sql) | - | - | - | - |
-
----
-
-## Web Development
-
-| Project Name | Tech Stack |
-| :--- | :--- |
-| [1. Google Style](https://github.com/omnianasa/Problem-Solving/tree/main/web/P1_googleStyle) | HTML / CSS |
-| [2. Digital Business Card](https://github.com/omnianasa/Problem-Solving/tree/main/web/P2_digital_business_card) | HTML / CSS |
-| [3. Digital Clock](https://github.com/omnianasa/Problem-Solving/tree/main/web/p3_digital_clock) | HTML / CSS |
-| [4. Snake Game](https://github.com/omnianasa/Problem-Solving/tree/main/web/p4_snake) | HTML / CSS / JS |
-| [5. Todo-list](https://github.com/omnianasa/Problem-Solving/tree/main/web/p5_todolist/todo-list) | REACT |
-
-#### HTML
-You will find around 13 files covering fundamental HTML concepts and practical exercises to help you build a strong foundation for your journey as a frontend engineer. [HTML Classes](https://github.com/omnianasa/Problem-Solving/tree/main/web/html)
-
----
-
-# Data Collection
-
-| # | Dataset                                              | Platform                                                                                               | Description                                                                                                                           |
-| - | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | The Six Hadeeth Books Dataset                   | [Hugging Face](https://huggingface.co/datasets/omnianasa/The-Six-Hadeeth-Books-Dataset)                | A large-scale collection of approximately 24,000 images representing the six primary books of Hadeeth (Al-Kutub al-Sittah).           |
-| 2 | NASA APOD Metadata                               | [Hugging Face](https://huggingface.co/datasets/omnianasa/nasa-apod-metadata)                           | A historical collection of metadata from NASA's Astronomy Picture of the Day (APOD).                                                  |
-| 3 | Comprehensive, Multi-Source Cybersecurity Events | [Kaggle](https://www.kaggle.com/datasets/omniaayman1/comprehensive-multi-source-cyber-security-events) | De-identified cybersecurity event data covering 58 consecutive days and collected from five sources within the LANL internal network. |
-| 4 | VoxCeleb2 Audio Dataset                          | [Kaggle](https://www.kaggle.com/datasets/omniaayman1/voxceleb2-audio/)                                 | VoxCeleb2 audio data stored in AAC/M4A format for speaker verification and speech authentication applications.                        |
-
-<a name="network"></a>
-## Network 
-
-I am not a big fan of the networking track, but I included it in my knowledge section because I studied it in college and completed a one-month online internship with NTI around 2024, as far as I remember. I have also included some of the exercises I worked on during the internship to reflect the level of knowledge and practical experience I gained in this area. [Network Exercises From NTI](https://github.com/omnianasa/Problem-Solving/tree/main/Network(NTI)/)
-
-
- # Random
- 
- [Using MCP with Copilot CLI: An Experiment](https://github.com/omnianasa/Problem-Solving/blob/main/ANALYSIS_REPORT.md) 
+If you have any feedback, suggestions, or spot an optimization, feel free to open an issue or pull request!
